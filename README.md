@@ -16,7 +16,8 @@
 </p>
 
 ## Discrption
-Redux Store is a refactor of the [E-Commerce](https://github.com/LyleKilson/e-commerce-back-end) application that uses Redux (Links to an external site.). This demonstration will show users how to manage global state using React’s Context API. The Context API is quickly gaining traction as a worthy alternative or perhaps even successor to other libraries that manage global state in tandem with React, such as Flux or MobX. Nonetheless, the open-source JavaScript library Redux remains the industry standard for managing complex state in a large-scale React application.
+Redux Store is a refactored e-commerece application that uses Redux (Links to an external site.). This demonstration will show users how to manage global state using React’s Context API. The Context API is quickly gaining traction as a worthy alternative or perhaps even successor to other libraries that manage global state in tandem with React, such as Flux or MobX. Nonetheless, the open-source JavaScript library Redux remains the industry standard for managing complex state in a large-scale React application.
+
 ## User Story
 
 The following is an example of a how a user would like to use this application:
