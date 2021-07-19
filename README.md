@@ -9,10 +9,10 @@
   
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
-    <img src="https://img.shields.io/badge/express-orange" />
-    <img src="https://img.shields.io/badge/Sequelize-red"  />
-    <img src="https://img.shields.io/badge/mySQL-purple"  />
-    <img src="https://img.shields.io/badge/dotenv-green" />
+    <img src="https://img.shields.io/badge/MongoDB-orange" />
+    <img src="https://img.shields.io/badge/Express-red"  />
+    <img src="https://img.shields.io/badge/React-purple"  />
+    <img src="https://img.shields.io/badge/Node-green" />
 </p>
 
 ## Discrption
@@ -46,51 +46,10 @@ WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 ```
 
-## Demo Videos
+## Snapshot
+Click [here](https://safe-reaches-46795.herokuapp.com/) to open the deployed application.
 
-![demoVideo](./images/demo.gif)
-
-Seeding and starting of the DB and server.
-
----
-
-![demoVideo2](./images/GETall.gif)
-
-`GET` routes returning all Categories, all Products, and all Tags being tested in Insomnia Core.
-
----
-
-![demoVideo3](./images/GETbyID.gif)
-
-`GET` routes to return a single Category, a single Product, and a single Tag being tested in Insomnia Core
-
----
-
-Click this [link](https://drive.google.com/file/d/1NmMGa0ilBML55Q9gwJL5TepVixNS6f-Y/view) to see the full demo video on `POST`, `PUT`, and `DELETE` routes for Categories, Products, and Tags being tested in Insomnia Core.
-
----
-
-## Installing Dependencies
-
-Enter the following command to install the required Node Package Modules:
-
-`npm i mysql2 sequelize dotenv`
-
-## Running the Application
-
-Enter the following command in your CLI at the root of the application
-
-`mysql -u root -p`
-
-Enter PW when promted
-
-`source db/schema.sql`
-
-`quit`
-
-`npm run seed`
-
-`npm start`
+![demo](./demo.png)
 
 ## Contibutions
 
